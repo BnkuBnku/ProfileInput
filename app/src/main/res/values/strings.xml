@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Profile Input</string>
+    <string-array name="Civil_Status">
+        <item>Married</item>
+        <item>Single</item>
+    </string-array>
+</resources>
